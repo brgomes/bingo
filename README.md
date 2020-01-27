@@ -1,5 +1,5 @@
 <h1>
-	BINGO CARDS GENERATOR
+	Bingo cards generator
 </h1>
 
 :gb: PHP code created in 2006 for the generation of bingo cards for Gurupi Esporte Clube.
